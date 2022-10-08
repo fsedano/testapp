@@ -1,0 +1,1 @@
+gimlet manifest create   --chart my-repo/nginx   --env testenv   --app demo-app --namespace testenv > staging-demo-app.yaml
